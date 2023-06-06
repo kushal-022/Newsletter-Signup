@@ -1,3 +1,2 @@
-# NodeMailChimpNew
 # Newsletter-Signup
-# Newsletter-Signup
+Used Node MailChimpNew Api.
